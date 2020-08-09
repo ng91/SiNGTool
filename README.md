@@ -1,6 +1,10 @@
 # SiNGTool
 It's simple signal analyzer/generator
 
+
+![Block diagram of SiNGTool](block-diagram.png)
+
+
 ## What i have done so far
 1. Conceptional works - just made a block diagram with components of project
 
