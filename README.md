@@ -1,5 +1,6 @@
 # SiNGTool
-It's simple signal analyzer/generator.  Can be used also as portable radio receiver and transmitter - SDR.
+It's simple signal analyzer/generator.  
+Can be used also as portable radio receiver and transmitter - SDR.
 
 
 ![Block diagram of SiNGTool](block-diagram.png)
