@@ -27,5 +27,5 @@ by bitbanging the configuration pins.
 Because everyone should be able to transmit and receive whatever he wants  
 (on unlicensed spectrums, in EMC chamber or using 50ohm termination instead of antenna of course).
 
-Please obey local radio regulations. Use filters when transmitting.  Beware of harmonics. 
+Please obey local radio regulations. Use filters when transmitting.   Beware of harmonics. 
 If You really like radiocommunication, get ham radio license.
