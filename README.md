@@ -1,7 +1,5 @@
 # SiNGTool
 It's simple signal analyzer/generator.
-Because everyone should be able to transmit whatever want
-(in EMC chamber or using 50ohm termination instead of antenna of course).
 
 
 ![Block diagram of SiNGTool](block-diagram.png)
@@ -24,3 +22,10 @@ FPGA can be configurated also over FT4232HL
 by bitbanging the configuration pins.
 
 
+## But why?
+
+Because everyone should be able to transmit and receive whatever he wants
+(on unlicensed spectrums, in EMC chamber or using 50ohm termination instead of antenna of course).
+
+Please obey local radio regulations. Use filters when transmitting. Beware of harmonics. 
+If You really like radiocommunication, get ham radio license.
