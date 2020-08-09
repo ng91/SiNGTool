@@ -1,5 +1,7 @@
 # SiNGTool
-It's simple signal analyzer/generator
+It's simple signal analyzer/generator.
+Because everyone should be able to transmit whatever want
+(in EMC chamber or using 50ohm termination instead of antenna of course).
 
 
 ![Block diagram of SiNGTool](block-diagram.png)
@@ -8,7 +10,7 @@ It's simple signal analyzer/generator
 ## What i have done so far
 1. Conceptional works - just made a block diagram with components of project
 
-## But how does it work
+## But how does it work?
 SiNGTool can work both with PC or standalone using embedded display.
 
 It can pipe RF samples from ADC to PC, or from PC to DAC,
