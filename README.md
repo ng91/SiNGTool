@@ -8,18 +8,19 @@ Can be used also as portable radio receiver and transmitter - SDR.
 
 ## What i have done so far
 1. Conceptional works - just made a block diagram with components of project
+2. Swapped FT4232 to FT601Q - to make PC - FPGA interface FASTER!
 
 ## But how does it work?
 SiNGTool can work both with PC or standalone using embedded display.
 
 It can pipe RF samples from ADC to PC, or from PC to DAC,  
-using a high-speed FT4232HL usb bridge interface.
+using a USB 3.0 bridge interface.
 
 There is a portable mode, where You can watch waveforms/spectrums  
 on the display, and generate Your own on the go!  
 All You need will be headphones,and microphone with PTT button.
 
-FPGA can be configurated also over FT4232HL  
+FPGA can be configurated also over FT601Q  
 by bitbanging the configuration pins.
 
 
