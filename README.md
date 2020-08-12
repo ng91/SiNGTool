@@ -14,13 +14,13 @@ Can be used also as portable radio receiver and transmitter - SDR.
 SiNGTool can work both with PC or standalone using embedded display.
 
 It can pipe RF samples from ADC to PC, or from PC to DAC,  
-using a USB 3.0 bridge interface.
+using a USB  bridge interface.
 
 There is a portable mode, where You can watch waveforms/spectrums  
 on the display, and generate Your own on the go!  
 All You need will be headphones,and microphone with PTT button.
 
-FPGA can be configurated also over FT601Q  
+FPGA can be configurated also over USB Bridge  
 by bitbanging the configuration pins.
 
 
