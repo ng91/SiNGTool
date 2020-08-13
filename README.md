@@ -8,7 +8,8 @@ Can be used also as portable radio receiver and transmitter - SDR.
 
 ## What i have done so far
 1. Conceptional works - just made a block diagram with components of project
-2. Swapped FT4232 to FT601Q - to make PC - FPGA interface FASTER!
+2. ~~Swapped FT4232 to FT601Q - to make PC - FPGA interface FASTER!~~(FT601Q needs more testing, will be used in SiNGTool v2)
+3. Swapped Xilinx Spartan-6 with ARTIX-7 - more processing resources! 
 
 ## But how does it work?
 SiNGTool can work both with PC or standalone using embedded display.
@@ -18,10 +19,14 @@ using a USB  bridge interface.
 
 There is a portable mode, where You can watch waveforms/spectrums  
 on the display, and generate Your own on the go!  
-All You need will be headphones,and microphone with PTT button.
+All You need will be headphones, and microphone with PTT button.
+
+Powerful Xilinx FPGA ARTIX-7 offers a lot of space for IP cores - ideal tool  
+for experiments with digital signal processing.
 
 FPGA can be configurated also over USB Bridge  
-by bitbanging the configuration pins.
+by bitbanging the configuration pins.  
+That's why Xilinx Platform Cable will be not neccasary to program FPGA.  
 
 
 ## But why?
